@@ -1,0 +1,21 @@
+{
+  "nerd": true,
+  "glasses": {
+    "style": "japanese",
+    "cost": 300
+  },
+  "tshirts": [
+    {
+      "color": "white",
+      "size": "medium"
+    },
+    {
+      "color": "white",
+      "size": "medium"
+    },
+    {
+      "color": "white",
+      "size": "medium"
+    }
+  ]
+}
