@@ -1,0 +1,19 @@
+{
+  "name": "react-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francescocarpita97/react-test.git"
+  },
+  "author": "francesco carpita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francescocarpita97/react-test/issues"
+  },
+  "homepage": "https://github.com/francescocarpita97/react-test#readme"
+}
